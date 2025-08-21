@@ -1,10 +1,10 @@
-Hello World Agent 🚀
+**Hello World Agent** 🚀
 
   This is a simple Hello World AI Agent built using the Google Agent Development Kit (ADK).
   The purpose of this project is to demonstrate how to create, configure, and run a minimal agent using ADK.
 
 
-📌 Features
+📌 **Features**
 
    1. Responds with a basic "Hello, World!" message.
 
@@ -13,7 +13,7 @@ Hello World Agent 🚀
    3. Easy-to-understand starter template for building custom agents.
 
 
-🛠️ Requirements
+🛠️ **Requirements**
 
   Before running the agent, make sure you have the following installed:
 
@@ -32,7 +32,7 @@ Install the dependencies:
         pip install -r requirements.txt
 
 
-▶️ Run the Agent
+▶️ **Run the Agent**
 
 1.Clone this repository:
 
@@ -48,7 +48,7 @@ Install the dependencies:
  "Hello, World!"
 
 
-📂 Project Structure:
+📂 **Project Structure:**
 
    hello-world-agent/
    │── hello_world_agent.py   # Main agent file
@@ -56,6 +56,6 @@ Install the dependencies:
    │── README.md              # Project documentation
 
 
-📜 License:
+📜 **License:**
 
   This project is licensed under the MIT License – feel free to use and modify it.
